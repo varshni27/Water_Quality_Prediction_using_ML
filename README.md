@@ -9,7 +9,7 @@ Exploratory Data Analysis (EDA): Conducted a thorough EDA to understand the dist
 - Missing data was handled by replacing null values with median and mean values for features like Sulfate and Trihalomethanes.
 - Dropped non-correlating features (pH, Turbidity) to improve model performance.
 
-##Data Preprocessing:
+## Data Preprocessing:
 
 - Scaled feature variables to ensure uniformity in the data using StandardScaler.
 - Split the dataset into training and test sets to build robust models.
