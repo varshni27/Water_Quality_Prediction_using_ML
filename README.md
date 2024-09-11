@@ -34,5 +34,5 @@ Models were evaluated using metrics like **Precision, Recall, F1-Score, and Accu
 
 ## Results & Insights
 - Decision Tree and Random Forest classifiers showed better performance in identifying water potability, with Random Forest being the most balanced model in terms of accuracy and precision.
-- Logistic Regression struggled due to the imbalance in classes, highlighting the need for better data balancing techniques in future iterations.
+
 
